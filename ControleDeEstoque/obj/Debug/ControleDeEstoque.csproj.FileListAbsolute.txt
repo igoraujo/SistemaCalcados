@@ -1,0 +1,21 @@
+c:\users\igor\documents\visual studio 2015\Projects\ControleDeEstoque\ControleDeEstoque\bin\Debug\ControleDeEstoque.exe.config
+c:\users\igor\documents\visual studio 2015\Projects\ControleDeEstoque\ControleDeEstoque\bin\Debug\ControleDeEstoque.exe
+c:\users\igor\documents\visual studio 2015\Projects\ControleDeEstoque\ControleDeEstoque\bin\Debug\ControleDeEstoque.pdb
+c:\users\igor\documents\visual studio 2015\Projects\ControleDeEstoque\ControleDeEstoque\obj\Debug\ControleDeEstoque.exe
+c:\users\igor\documents\visual studio 2015\Projects\ControleDeEstoque\ControleDeEstoque\obj\Debug\ControleDeEstoque.pdb
+c:\users\igor\documents\visual studio 2015\Projects\ControleDeEstoque\ControleDeEstoque\obj\Debug\ControleDeEstoque.csprojResolveAssemblyReference.cache
+C:\Users\Avançar\Desktop\ControleDeEstoque\ControleDeEstoque\bin\Debug\ControleDeEstoque.exe.config
+C:\Users\Avançar\Desktop\ControleDeEstoque\ControleDeEstoque\obj\Debug\ControleDeEstoque.exe
+C:\Users\Avançar\Desktop\ControleDeEstoque\ControleDeEstoque\obj\Debug\ControleDeEstoque.pdb
+C:\Users\Avançar\Desktop\ControleDeEstoque\ControleDeEstoque\bin\Debug\ControleDeEstoque.exe
+C:\Users\Avançar\Desktop\ControleDeEstoque\ControleDeEstoque\bin\Debug\ControleDeEstoque.pdb
+C:\Users\Avançar\Desktop\ControleDeEstoque\ControleDeEstoque\obj\Debug\ControleDeEstoque.csprojResolveAssemblyReference.cache
+H:\ControleDeEstoque - Copia\ControleDeEstoque\bin\Debug\ControleDeEstoque.exe.config
+H:\ControleDeEstoque - Copia\ControleDeEstoque\obj\Debug\ControleDeEstoque.exe
+H:\ControleDeEstoque - Copia\ControleDeEstoque\obj\Debug\ControleDeEstoque.pdb
+H:\ControleDeEstoque - Copia\ControleDeEstoque\bin\Debug\ControleDeEstoque.exe
+H:\ControleDeEstoque - Copia\ControleDeEstoque\bin\Debug\ControleDeEstoque.pdb
+H:\ControleDeEstoque - Copia\ControleDeEstoque\obj\Debug\ControleDeEstoque.csprojResolveAssemblyReference.cache
+E:\ControleDeEstoque - Copia\ControleDeEstoque\bin\Debug\ControleDeEstoque.exe.config
+E:\ControleDeEstoque - Copia\ControleDeEstoque\obj\Debug\ControleDeEstoque.exe
+E:\ControleDeEstoque - Copia\ControleDeEstoque\obj\Debug\ControleDeEstoque.pdb
